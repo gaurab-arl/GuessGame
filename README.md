@@ -1,6 +1,7 @@
 # GuessGame
 
 function 
+
      1. return (rand() % (upper - lower + 1)) + lower; 
        - used to give numbers
        - eg : up = 10 , lw = 1
